@@ -3,5 +3,6 @@
 #
 # Examples:
 #
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
+  # recipe = Recipe.create([{ name: 'Chillie' }, { name: 'Carrot' }])
+  # Ingredient.create(name: 'Emanuel', city: cities.first)
+Recipe.create({ name: 'Chillie' })
